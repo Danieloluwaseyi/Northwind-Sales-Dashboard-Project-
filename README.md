@@ -36,3 +36,7 @@ How to Access the Dashboard
 Download the Northwind Sales Dashboard.pbix file from this repository.
 Open it in Power BI Desktop.
 Explore the insights by interacting with filters and slicers.
+
+Connect with Me If you have questions or feedback, feel free to reach out:
+
+Email: sheyidaniells@gmail.com
